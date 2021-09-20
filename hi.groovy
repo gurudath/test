@@ -1,3 +1,5 @@
-def defVar() {
-    sh " echo Hello ff."
+def defvar() {
+    println("echo Hello ff")
 }
+
+return this
